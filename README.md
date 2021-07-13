@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## Hi there, I'm [Manika!](https://www.linkedin.com/in/manika-jain/) 😄
 
-#### I love everything about Computer Science coming at the crossroads of finance and technology! ::
+#### I love everything about Computer Science coming at the crossroads of finance and technology! 💻:
 
 - 🔭 I’m currently working on my Data Structures & Algorithms Skills.
 - 🌱 I have experience working in the field of Product Management and Research!
